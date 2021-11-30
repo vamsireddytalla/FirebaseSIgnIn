@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "895690831906",
+    "project_id": "fir-signin-2937d",
+    "storage_bucket": "fir-signin-2937d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895690831906:android:d1e13c07eff79b493d327b",
+        "android_client_info": {
+          "package_name": "com.talla.firebasegooglesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895690831906-ag6i04utar47gethl4bi4j3jdmnb55fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.talla.firebasegooglesignin",
+            "certificate_hash": "395a88550c95119a24d23fa8fe642ecb0ad6e427"
+          }
+        },
+        {
+          "client_id": "895690831906-u2ev9aald3obqj5q21uvt5s3d2s3jj09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.talla.firebasegooglesignin",
+            "certificate_hash": "d1a23164582172a0718387c118362d523e104b46"
+          }
+        },
+        {
+          "client_id": "895690831906-gfs4ed24g17u4bic0kuogglt1u7t98ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvrwHc0SJ00_CPQc2P2B382oMVHsfDXVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895690831906-gfs4ed24g17u4bic0kuogglt1u7t98ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
